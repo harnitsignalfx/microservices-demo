@@ -4,7 +4,7 @@ The Ad service provides advertisement based on context keys. If no context keys 
 
 ## Building locally
 
-The Ad service uses gradlew to compile/install/distribute. Gradle wrapper is already part of the source code. To build Ad Service, run:
+The Ad service uses gradlew to compile/install/distribute. Gradle wrapper is already part of the source code. To build Ad Service, run the following:
 
 ```
 ./gradlew installDist
